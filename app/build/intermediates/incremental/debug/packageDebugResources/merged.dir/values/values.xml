@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#121212</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Reaction Camera</string>
+    <string name="grant_permissions">授予权限</string>
+    <string name="need_permissions">需要摄像头和麦克风权限</string>
+    <string name="please_select_video">请选择参考视频</string>
+    <string name="record">录制</string>
+    <string name="select_video">选择参考视频</string>
+    <string name="stop">停止</string>
+    <string name="switch_camera">切换摄像头</string>
+    <style name="Theme.ReactionCamera" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,5 @@
+com.example.reactioncamera.test.app-androidTest-0 /Users/charlieguo/Documents/GitHub/ReactionCamera/app/build/generated/res/resValues/androidTest/debug
+com.example.reactioncamera.test.app-updated_navigation_xml-1 /Users/charlieguo/Documents/GitHub/ReactionCamera/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.example.reactioncamera.test.app-mergeDebugAndroidTestResources-2 /Users/charlieguo/Documents/GitHub/ReactionCamera/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.reactioncamera.test.app-mergeDebugAndroidTestResources-3 /Users/charlieguo/Documents/GitHub/ReactionCamera/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.reactioncamera.test.app-debugAndroidTest-4 /Users/charlieguo/Documents/GitHub/ReactionCamera/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,4 @@
+#Sun Oct 11 20:31:34 EDT 2026
+base.0=/Users/charlieguo/Documents/GitHub/ReactionCamera/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
